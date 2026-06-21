@@ -1,0 +1,26 @@
+[data-theme="japan"] {
+    // Фоны
+    --color-bg-primary: #faf8f5;
+    --color-bg-secondary: #f0ece6;
+    --color-bg-card: #ffffff;
+  
+    // Акценты
+    --color-accent: #c17f6b;
+    --color-accent-glow: #a66652;
+    --color-accent-soft: rgba(193, 127, 107, 0.12);
+  
+    // Текст
+    --color-text-primary: #2d2520;
+    --color-text-secondary: #7a6a62;
+    --color-text-muted: #b8a89e;
+  
+    // Статусы
+    --color-success: #5c8a6b;
+    --color-warning: #c4892a;
+    --color-danger: #b85450;
+  
+    // Стрики и прогресс
+    --color-streak-active: #c17f6b;
+    --color-streak-inactive: #e8e0d8;
+    --color-streak-frozen: #a8c4d4;
+  }

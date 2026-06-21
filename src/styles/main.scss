@@ -1,0 +1,10 @@
+// Базовые стили
+@use 'base/global';
+@use 'base/tokens';
+
+// Темы
+@use 'themes/solo-leveling';
+@use 'themes/japan';
+
+// Компоненты
+@use 'components/app';
